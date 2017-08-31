@@ -1,0 +1,41 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-dashboard {
+    width: 76px;
+    height: 86px;
+    background-position: -5px -5px;
+}
+
+.sprite-graph {
+    width: 76px;
+    height: 86px;
+    background-position: -91px -5px;
+}
+
+.sprite-message {
+    width: 76px;
+    height: 86px;
+    background-position: -5px -101px;
+}
+
+.sprite-paper {
+    width: 76px;
+    height: 86px;
+    background-position: -91px -101px;
+}
+
+.sprite-people {
+    width: 76px;
+    height: 86px;
+    background-position: -177px -5px;
+}
+
+.sprite-tag {
+    width: 76px;
+    height: 86px;
+    background-position: -177px -101px;
+}

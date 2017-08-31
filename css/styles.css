@@ -1,0 +1,184 @@
+/*personalized css*/
+
+/*top nav*/
+.top-container{
+  background-color:#2B93E6;
+  width:100%;
+  height:39px;
+}
+
+h1{
+  font-family: 'Kanit', sans-serif;
+  color:white;
+  font-size:10pt;
+  position:absolute;
+  top:12px;
+  right:220px;
+
+}
+
+/*settings and question icons*/
+h2{
+  font-size:10pt;
+  color:white;
+  position:absolute;
+  top:11px;
+  right:165px;
+}
+
+/*dashboard*/
+a.top{
+  color:white;
+  font-family:Trebuchet MS;
+}
+a.top:hover{
+  color:#18517F;
+  text-decoration: none;
+  font-family:Trebuchet MS;
+}
+
+h3{
+  font-size:10pt;
+  color:white;
+  position:absolute;
+  top:11px;
+  right:130px;
+
+}
+/*announements*/
+h4{
+  color:orange;
+  font-family:arial;
+  padding-top:16px;
+
+
+  font-size:10pt;
+}
+
+/*border boxes*/
+.col-md-3{
+  border:1px solid #E7E9E7;
+}
+
+ .col-md-4{
+   border:1px solid #E7E9E7;
+   border-top:none;
+ }
+.col-lg-8, .col-md-1{
+  border:1px solid #E7E9E7;
+  border-left:none;
+
+}
+
+.col-md-8, .no-top{
+  border:1px solid #E7E9E7;
+  border-left:none;
+  border-top:none;
+}
+/*latin*/
+h5{
+  color:#AFAFB8;
+  font-family:arial;
+
+  padding:14px;
+  font-size:9pt;
+  margin:none;
+}
+/*arrow icons*/
+img.img-arrow{
+  width:19px;
+  position:relative;
+  top:10px;
+}
+/*tasks and analytics*/
+h6{
+color:#2B93E6;
+font-size:2vw;
+font-family:Trebuchet MS;
+}
+
+.line1{
+  border-left:1px solid #247ABF;
+  height:10px;
+  padding:8px;
+margin:12px;
+  top:2px;
+}
+
+.line2{
+  border-left:1px solid #247ABF;
+  margin:12px;
+  top:2px;
+  padding:8px;
+}
+
+/*icon menu*/
+.full-width{
+  width:100%;
+}
+
+/*dashboard search*/
+.navbar{
+  background-color: #33CC66;
+  position:relative;
+  width:100%;
+  height:5vw;
+  margin:10px;
+  padding:1vw;
+
+
+}
+.navbar-brand{
+  font-size: 22pt;
+  position:absolute;
+  top:.5vw;
+}
+a.navbar-brand{
+  color:white;
+}
+
+#custom-search-input{
+          margin:0;
+          margin-top: 10px;
+          padding: 0;
+
+      }
+
+#custom-search-input .search-query {
+          padding-right: 3px;
+          padding-right: 4px \9;
+          padding-left: 3px;
+          padding-left: 4px \9;
+          /* IE7-8 doesn't have border-radius, so don't indent the padding */
+
+          margin-bottom: 0;
+          -webkit-border-radius: 3px;
+
+          border-radius: 3px;
+      }
+
+#custom-search-input button {
+          border: 0;
+          background: none;
+          /** belows styles are working good */
+          font-size:12pt;
+          top:2px;
+
+          left: -30px;
+          /* IE7-8 doesn't have border-radius, so don't indent the padding */
+          margin-bottom: 0;
+          -webkit-border-radius: 3px;
+          -moz-border-radius: 3px;
+          border-radius: 3px;
+          color:#2B93E6;}
+
+.container-small{
+  max-width:70%
+
+}
+
+.container{
+  max-width:70%;
+
+}
+/*gradient border for lower boxes*/
