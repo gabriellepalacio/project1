@@ -182,3 +182,11 @@ a.navbar-brand{
 
 }
 /*gradient border for lower boxes*/
+
+img.bar{
+  width:50%;
+}
+
+img.pie{
+  width:10%;
+}
