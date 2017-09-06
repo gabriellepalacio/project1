@@ -1,41 +1,47 @@
+
 .sprite {
     background-image: url(../images/spritesheet.png);
     background-repeat: no-repeat;
     display: block;
 }
 
-.sprite-dashboard {
-    width: 76px;
-    height: 86px;
+
+.sprite-sprite-dashboard {
+    width: 84px;
+    height: 69px;
     background-position: -5px -5px;
 }
 
-.sprite-graph {
-    width: 76px;
-    height: 86px;
-    background-position: -91px -5px;
+.sprite-sprite-graph {
+    width: 84px;
+    height: 56px;
+    background-position: -99px -5px;
 }
 
-.sprite-message {
-    width: 76px;
-    height: 86px;
-    background-position: -5px -101px;
+.sprite-sprite-message {
+    width: 84px;
+    height: 69px;
+    background-position: -99px -71px;
 }
 
-.sprite-paper {
-    width: 76px;
-    height: 86px;
-    background-position: -91px -101px;
+.sprite-sprite-paper {
+    width: 84px;
+    height: 69px;
+    background-position: -193px -5px;
 }
 
-.sprite-people {
-    width: 76px;
-    height: 86px;
-    background-position: -177px -5px;
+.sprite-sprite-people {
+    width: 84px;
+    height: 69px;
+    background-position: -5px -84px;
 }
 
-.sprite-tag {
-    width: 76px;
-    height: 86px;
-    background-position: -177px -101px;
+.sprite-sprite-tag {
+    width: 84px;
+    height: 69px;
+    background-position: -193px -84px;
+}
+
+.sprite-button:hover {
+  opacity: 0;
 }
